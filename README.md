@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dionis Mulita
+- 👀 I’m interested in Information Technology, Computer Science, Photoshoping, video editing, music production, gaming, art and more.
+- 📚 With over 4 years of experience in digital photo and video editing, I excel in collaborative projects using Adobe Photoshop, Premiere Pro, and Filmora. I'm also skilled in music production with FL Studio, and I bring 2 years of 3D modeling expertise with Blender. My educational background includes Computer Science studies, enabling proficiency in programming languages like C, HTML, CSS, JavaScript, Python, and Java, along with MySQL and SQL for database management. I'm eager for fresh challenges and opportunities to grow while gaining valuable experiences.
+- 🌱 I'm currently delving into a diverse range of technological domains, exploring the creation of innovative internet applications and software aimed at aiding individuals in need while also crafting beautiful works of art.
+- 📫 Y'all can reach me on dionis12mulita@gmail.com or https://www.linkedin.com/in/dionis-mulita-676622239/
